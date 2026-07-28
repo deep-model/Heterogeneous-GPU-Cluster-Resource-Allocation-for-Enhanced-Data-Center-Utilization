@@ -1,5 +1,6 @@
-# [Veiw Project White Paper PDF](https://github.com/deep-model/GPU_Utilization_of_Heterogenous_Clusters/blob/main/GPU%20Utilization_M.Harper.pdf)
-[View the Project White Paper](GPU%20Utilization_M.Harper_1.pdf)
+
+# [View the Project White Paper](GPU%20Utilization_M.Harper_1.pdf)
+
 # Heterogeneous GPU Cluster Resource Allocation for Enhanced Data Center Utilization
 ##  Matthew Harper 
 ## [Veiw Project List](https://github.com/deep-model?tab=repositories)
